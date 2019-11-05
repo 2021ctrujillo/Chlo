@@ -1,0 +1,1 @@
+In game.py, there is a battle game whose purpose was to help me understand classes and while loops. I coded it in repl.it because my CS50 does not work, so I'm not sure if it copied the right way into Github.
